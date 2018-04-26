@@ -10,6 +10,10 @@ sudo easy_install pip
 sudo pip install --upgrade virtualenv
 
 virtualenv --system-site-packages -p python3 .
+
+pip install matplotlib
+
+pip install pandas
 ```
 
 ## Start
